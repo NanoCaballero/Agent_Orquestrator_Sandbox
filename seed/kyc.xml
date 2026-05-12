@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clientes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+  <cliente>
+    <curp>GALJ850315HDFRCN01</curp>
+    <rfc>GALJ850315HDF</rfc>
+    <nombre_completo>Juan García López</nombre_completo>
+    <fecha_nacimiento>1985-03-15</fecha_nacimiento>
+    <lugar_nacimiento>
+      <municipio>Cuauhtémoc</municipio>
+      <estado>Ciudad de México</estado>
+      <pais>México</pais>
+    </lugar_nacimiento>
+    <estado_civil>CASADO</estado_civil>
+    <ocupacion>EMPLEADO</ocupacion>
+    <nivel_riesgo>BAJO</nivel_riesgo>
+    <pep>false</pep>
+    <documentos>
+      <documento tipo="INE" numero="0102318845001" vigencia="2030-03-15" status="VALIDO"/>
+      <documento tipo="CURP" numero="GALJ850315HDFRCN01" vigencia="PERMANENTE" status="VALIDO"/>
+      <documento tipo="COMPROBANTE_DOMICILIO" numero="CFE-MAR2026" vigencia="2026-06-15" status="VALIDO"/>
+    </documentos>
+    <ultima_verificacion>2025-09-10</ultima_verificacion>
+    <proxima_revision>2027-09-10</proxima_revision>
+  </cliente>
+
+  <cliente>
+    <curp>ROMM920610MDFDRR01</curp>
+    <rfc>ROMM920610GDF</rfc>
+    <nombre_completo>María Rodríguez Martínez</nombre_completo>
+    <fecha_nacimiento>1992-06-10</fecha_nacimiento>
+    <lugar_nacimiento>
+      <municipio>Iztapalapa</municipio>
+      <estado>Ciudad de México</estado>
+      <pais>México</pais>
+    </lugar_nacimiento>
+    <estado_civil>SOLTERA</estado_civil>
+    <ocupacion>INDEPENDIENTE</ocupacion>
+    <nivel_riesgo>MEDIO</nivel_riesgo>
+    <pep>false</pep>
+    <documentos>
+      <documento tipo="INE" numero="0291827364001" vigencia="2028-06-10" status="VALIDO"/>
+      <documento tipo="CURP" numero="ROMM920610MDFDRR01" vigencia="PERMANENTE" status="VALIDO"/>
+      <documento tipo="COMPROBANTE_DOMICILIO" numero="AGUA-ABR2026" vigencia="2026-07-10" status="VALIDO"/>
+    </documentos>
+    <ultima_verificacion>2024-11-20</ultima_verificacion>
+    <proxima_revision>2026-11-20</proxima_revision>
+  </cliente>
+
+  <cliente>
+    <curp>HEPC780225HNLRRL01</curp>
+    <rfc>HEPC780225NLE</rfc>
+    <nombre_completo>Carlos Hernández Pérez</nombre_completo>
+    <fecha_nacimiento>1978-02-25</fecha_nacimiento>
+    <lugar_nacimiento>
+      <municipio>San Pedro Garza García</municipio>
+      <estado>Nuevo León</estado>
+      <pais>México</pais>
+    </lugar_nacimiento>
+    <estado_civil>DIVORCIADO</estado_civil>
+    <ocupacion>EMPRESARIO</ocupacion>
+    <nivel_riesgo>ALTO</nivel_riesgo>
+    <pep>false</pep>
+    <documentos>
+      <documento tipo="INE" numero="0381726450001" vigencia="2029-02-25" status="VALIDO"/>
+      <documento tipo="CURP" numero="HEPC780225HNLRRL01" vigencia="PERMANENTE" status="VALIDO"/>
+      <documento tipo="COMPROBANTE_DOMICILIO" numero="TELMEX-MAY2026" vigencia="2026-08-25" status="VALIDO"/>
+      <documento tipo="DECLARACION_ISR" numero="ISR-2025-HEPC" vigencia="2026-12-31" status="VALIDO"/>
+    </documentos>
+    <ultima_verificacion>2025-01-15</ultima_verificacion>
+    <proxima_revision>2026-01-15</proxima_revision>
+  </cliente>
+
+  <cliente>
+    <curp>GOTA951118MJCMRN01</curp>
+    <rfc>GOTA951118JNE</rfc>
+    <nombre_completo>Ana Sofía Gómez Torres</nombre_completo>
+    <fecha_nacimiento>1995-11-18</fecha_nacimiento>
+    <lugar_nacimiento>
+      <municipio>Zapopan</municipio>
+      <estado>Jalisco</estado>
+      <pais>México</pais>
+    </lugar_nacimiento>
+    <estado_civil>SOLTERA</estado_civil>
+    <ocupacion>PROFESIONISTA</ocupacion>
+    <nivel_riesgo>BAJO</nivel_riesgo>
+    <pep>false</pep>
+    <documentos>
+      <documento tipo="INE" numero="0471635291001" vigencia="2031-11-18" status="VALIDO"/>
+      <documento tipo="CURP" numero="GOTA951118MJCMRN01" vigencia="PERMANENTE" status="VALIDO"/>
+      <documento tipo="COMPROBANTE_DOMICILIO" numero="CFE-ABR2026" vigencia="2026-07-18" status="VALIDO"/>
+      <documento tipo="CEDULA_PROFESIONAL" numero="12345678" vigencia="PERMANENTE" status="VALIDO"/>
+    </documentos>
+    <ultima_verificacion>2025-08-01</ultima_verificacion>
+    <proxima_revision>2027-08-01</proxima_revision>
+  </cliente>
+
+  <cliente>
+    <curp>JICR680730HSLRMB01</curp>
+    <rfc>JICR680730SLJ</rfc>
+    <nombre_completo>Roberto Jiménez Cruz</nombre_completo>
+    <fecha_nacimiento>1968-07-30</fecha_nacimiento>
+    <lugar_nacimiento>
+      <municipio>Culiacán</municipio>
+      <estado>Sinaloa</estado>
+      <pais>México</pais>
+    </lugar_nacimiento>
+    <estado_civil>CASADO</estado_civil>
+    <ocupacion>JUBILADO</ocupacion>
+    <nivel_riesgo>BAJO</nivel_riesgo>
+    <pep>false</pep>
+    <documentos>
+      <documento tipo="INE" numero="0561524182001" vigencia="2026-07-30" status="POR_VENCER"/>
+      <documento tipo="CURP" numero="JICR680730HSLRMB01" vigencia="PERMANENTE" status="VALIDO"/>
+      <documento tipo="COMPROBANTE_DOMICILIO" numero="AGUA-MAR2026" vigencia="2026-06-30" status="VALIDO"/>
+    </documentos>
+    <ultima_verificacion>2024-07-30</ultima_verificacion>
+    <proxima_revision>2026-07-30</proxima_revision>
+  </cliente>
+
+  <cliente>
+    <curp>TORA820512HQRNDR01</curp>
+    <rfc>TORA820512QRO</rfc>
+    <nombre_completo>Andrés Torres Ruiz</nombre_completo>
+    <fecha_nacimiento>1982-05-12</fecha_nacimiento>
+    <lugar_nacimiento>
+      <municipio>Querétaro</municipio>
+      <estado>Querétaro</estado>
+      <pais>México</pais>
+    </lugar_nacimiento>
+    <estado_civil>CASADO</estado_civil>
+    <ocupacion>GERENTE</ocupacion>
+    <nivel_riesgo>BAJO</nivel_riesgo>
+    <pep>false</pep>
+    <documentos>
+      <documento tipo="INE" numero="0651413073001" vigencia="2030-05-12" status="VALIDO"/>
+      <documento tipo="CURP" numero="TORA820512HQRNDR01" vigencia="PERMANENTE" status="VALIDO"/>
+      <documento tipo="COMPROBANTE_DOMICILIO" numero="CFE-MAY2026" vigencia="2026-08-12" status="VALIDO"/>
+    </documentos>
+    <ultima_verificacion>2025-05-12</ultima_verificacion>
+    <proxima_revision>2027-05-12</proxima_revision>
+  </cliente>
+
+  <cliente>
+    <curp>MAFL901205MDGRNR01</curp>
+    <rfc>MAFL901205DGO</rfc>
+    <nombre_completo>Laura Martínez Fuentes</nombre_completo>
+    <fecha_nacimiento>1990-12-05</fecha_nacimiento>
+    <lugar_nacimiento>
+      <municipio>Durango</municipio>
+      <estado>Durango</estado>
+      <pais>México</pais>
+    </lugar_nacimiento>
+    <estado_civil>UNION_LIBRE</estado_civil>
+    <ocupacion>EMPLEADA</ocupacion>
+    <nivel_riesgo>BAJO</nivel_riesgo>
+    <pep>false</pep>
+    <documentos>
+      <documento tipo="INE" numero="0741302964001" vigencia="2028-12-05" status="VALIDO"/>
+      <documento tipo="CURP" numero="MAFL901205MDGRNR01" vigencia="PERMANENTE" status="VALIDO"/>
+      <documento tipo="COMPROBANTE_DOMICILIO" numero="TELMEX-ABR2026" vigencia="2026-07-05" status="VALIDO"/>
+    </documentos>
+    <ultima_verificacion>2025-03-20</ultima_verificacion>
+    <proxima_revision>2027-03-20</proxima_revision>
+  </cliente>
+
+</clientes>
