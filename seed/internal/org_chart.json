@@ -1,0 +1,223 @@
+{
+  "banco": "Banorte (Simulador)",
+  "rfc": "BNR930801XYZ",
+  "actualizado": "2026-05-01",
+  "direccion_general": {
+    "director_general": "Lic. Marcos Alejandro Villanueva Ríos",
+    "correo": "m.villanueva@banorte.sim",
+    "subdirecciones": [
+      {
+        "nombre": "Dirección de Banca Retail",
+        "director": "Lic. Carmen Sofía Ibáñez Morales",
+        "correo": "c.ibanez@banorte.sim",
+        "areas": [
+          {
+            "nombre": "Captación y Ahorro",
+            "gerente": "Mtro. Eduardo Ríos Garza",
+            "headcount": 85,
+            "presupuesto_anual_mxn": 42000000
+          },
+          {
+            "nombre": "Crédito al Consumo",
+            "gerente": "Lic. Patricia Sánchez Vela",
+            "headcount": 120,
+            "presupuesto_anual_mxn": 65000000
+          },
+          {
+            "nombre": "Red de Sucursales (CDMX)",
+            "gerente": "Ing. Roberto Fuentes Pérez",
+            "headcount": 340,
+            "presupuesto_anual_mxn": 180000000
+          },
+          {
+            "nombre": "Red de Sucursales (MTY/GDL)",
+            "gerente": "Lic. Adriana Guzmán Torres",
+            "headcount": 290,
+            "presupuesto_anual_mxn": 155000000
+          }
+        ]
+      },
+      {
+        "nombre": "Dirección de Banca Corporativa",
+        "director": "Dr. Alejandro Bermúdez Castillo",
+        "correo": "a.bermudez@banorte.sim",
+        "areas": [
+          {
+            "nombre": "Grandes Empresas",
+            "gerente": "Mtra. Valeria Ortiz Ramírez",
+            "headcount": 45,
+            "presupuesto_anual_mxn": 38000000
+          },
+          {
+            "nombre": "PYME y Emprendedores",
+            "gerente": "Lic. Héctor Morales Díaz",
+            "headcount": 68,
+            "presupuesto_anual_mxn": 29000000
+          },
+          {
+            "nombre": "Financiamiento Estructurado",
+            "gerente": "Mtro. Daniel Acosta Vega",
+            "headcount": 22,
+            "presupuesto_anual_mxn": 18500000
+          }
+        ]
+      },
+      {
+        "nombre": "Dirección de Tesorería y Mercados",
+        "director": "Mtro. Francisco Javier Leal Nájera",
+        "correo": "f.leal@banorte.sim",
+        "areas": [
+          {
+            "nombre": "Mesa de Dinero",
+            "gerente": "Lic. Sofía Menéndez Arce",
+            "headcount": 18,
+            "presupuesto_anual_mxn": 15000000
+          },
+          {
+            "nombre": "Gestión de Liquidez (ALCO)",
+            "gerente": "Mtro. Carlos Reyes Gutiérrez",
+            "headcount": 12,
+            "presupuesto_anual_mxn": 10000000
+          },
+          {
+            "nombre": "Derivados y Cobertura",
+            "gerente": "Ing. Ana Lucía Moreno Castro",
+            "headcount": 15,
+            "presupuesto_anual_mxn": 12000000
+          }
+        ]
+      },
+      {
+        "nombre": "Dirección de Tecnología e Innovación",
+        "director": "Ing. Pablo Medina Vargas",
+        "correo": "p.medina@banorte.sim",
+        "areas": [
+          {
+            "nombre": "Infraestructura y Operaciones TI",
+            "gerente": "Ing. Laura Jiménez Salazar",
+            "headcount": 95,
+            "presupuesto_anual_mxn": 210000000
+          },
+          {
+            "nombre": "Desarrollo de Software",
+            "gerente": "Ing. Miguel Ángel Herrera Orozco",
+            "headcount": 140,
+            "presupuesto_anual_mxn": 185000000
+          },
+          {
+            "nombre": "Ciberseguridad",
+            "gerente": "Lic. Fernanda Ávila Cruz",
+            "headcount": 38,
+            "presupuesto_anual_mxn": 72000000
+          },
+          {
+            "nombre": "Inteligencia Artificial y Datos",
+            "gerente": "Dr. Ricardo Ochoa Blanco",
+            "headcount": 52,
+            "presupuesto_anual_mxn": 95000000
+          }
+        ]
+      },
+      {
+        "nombre": "Dirección de Riesgos",
+        "director": "Mtra. Isabel Contreras Rueda",
+        "correo": "i.contreras@banorte.sim",
+        "areas": [
+          {
+            "nombre": "Riesgo de Crédito",
+            "gerente": "Mtro. Andrés Flores Mondragón",
+            "headcount": 35,
+            "presupuesto_anual_mxn": 28000000
+          },
+          {
+            "nombre": "Riesgo de Mercado y Liquidez",
+            "gerente": "Lic. Diana Pacheco Villalba",
+            "headcount": 20,
+            "presupuesto_anual_mxn": 16000000
+          },
+          {
+            "nombre": "Prevención de Lavado de Dinero",
+            "gerente": "Lic. José Antonio Delgado Rojas",
+            "headcount": 42,
+            "presupuesto_anual_mxn": 35000000
+          },
+          {
+            "nombre": "Fraude y Seguridad Operacional",
+            "gerente": "Ing. Claudia Espinoza Méndez",
+            "headcount": 28,
+            "presupuesto_anual_mxn": 22000000
+          }
+        ]
+      },
+      {
+        "nombre": "Dirección de Finanzas y Contabilidad",
+        "director": "C.P. Teresa Ramírez Aguilar",
+        "correo": "t.ramirez@banorte.sim",
+        "areas": [
+          {
+            "nombre": "Contabilidad General",
+            "gerente": "C.P. Roberto Castañeda López",
+            "headcount": 25,
+            "presupuesto_anual_mxn": 18000000
+          },
+          {
+            "nombre": "Presupuestación y Control",
+            "gerente": "Mtra. Gabriela Núñez Salinas",
+            "headcount": 18,
+            "presupuesto_anual_mxn": 13000000
+          },
+          {
+            "nombre": "Relación con Inversionistas",
+            "gerente": "Lic. Hugo Martínez Becerra",
+            "headcount": 8,
+            "presupuesto_anual_mxn": 9000000
+          }
+        ]
+      },
+      {
+        "nombre": "Dirección de Recursos Humanos",
+        "director": "Lic. Mariana Solís Aguilera",
+        "correo": "m.solis@banorte.sim",
+        "areas": [
+          {
+            "nombre": "Atracción de Talento",
+            "gerente": "Lic. Daniela Vázquez Ponce",
+            "headcount": 22,
+            "presupuesto_anual_mxn": 15000000
+          },
+          {
+            "nombre": "Nómina y Beneficios",
+            "gerente": "Lic. Enrique Guerrero Haro",
+            "headcount": 18,
+            "presupuesto_anual_mxn": 12000000
+          },
+          {
+            "nombre": "Capacitación y Desarrollo",
+            "gerente": "Mtra. Alejandra Peña Soto",
+            "headcount": 15,
+            "presupuesto_anual_mxn": 11000000
+          }
+        ]
+      },
+      {
+        "nombre": "Dirección Jurídica y Cumplimiento",
+        "director": "Lic. Rodrigo Gutiérrez Alvarado",
+        "correo": "r.gutierrez@banorte.sim",
+        "areas": [
+          {
+            "nombre": "Legal Corporativo",
+            "gerente": "Lic. Sandra Montes Cervantes",
+            "headcount": 15,
+            "presupuesto_anual_mxn": 22000000
+          },
+          {
+            "nombre": "Cumplimiento Regulatorio (CNBV/Banxico)",
+            "gerente": "Lic. Arturo Pedraza Ibarra",
+            "headcount": 20,
+            "presupuesto_anual_mxn": 16000000
+          }
+        ]
+      }
+    ]
+  }
+}
